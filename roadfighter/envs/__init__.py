@@ -1,2 +1,2 @@
 from roadfighter.envs.roadfighter_env import RoadFighterEnv
-from roadfighter.envs.roadfighter_extrahard_env import RoadFighterExtraHardEnv
+
